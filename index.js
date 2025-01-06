@@ -40,4 +40,4 @@ client.on("ready", async () => {
   require("./whitelist")(client);
 });
 
-client.login(process.env.TOKEN);
+client.login("MTMyNTc3NDQ2MzE2OTcyNDQ3Nw.GJHYkF.ffE-tv42Uv8P5eniRKbmUROvUBFar_0dwgAdFk");
